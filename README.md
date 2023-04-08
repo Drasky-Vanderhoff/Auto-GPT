@@ -74,7 +74,7 @@ To install Auto-GPT, follow these steps:
 1. Clone the repository:
 For this step you need Git installed, but you can just download the zip file instead by clicking the button at the top of this page ☝️
 ```
-git clone https://github.com/Torantulino/Auto-GPT.git
+git clone https://github.com/Drasky-Vanderhof/Auto-GPT.git
 ```
 
 2. Navigate to the project directory:
